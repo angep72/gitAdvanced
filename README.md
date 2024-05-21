@@ -268,3 +268,11 @@ remote:
 To https://github.com/angep72/gitAdvanced.git
  * [new branch]      ft/new-feature -> ft/new-feature
 branch 'ft/new-feature' set up to track 'origin/ft/new-feature'.
+
+## Chalenge 5 
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git branch -d ft/new-feature
+Deleted branch ft/new-feature (was e1c100b).
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$
