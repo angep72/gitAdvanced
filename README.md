@@ -399,3 +399,14 @@ Turn off this advice by setting config variable advice.detachedHead to false
 HEAD is now at 957125e Challenge8 part2 done
 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced ((957125e...))
+
+### Part 3 
+Challenge 1 
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git stash
+Saved working directory and index state WIP on main: e3f90df Challenge 10 part 2 done
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ 
+
