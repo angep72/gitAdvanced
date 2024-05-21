@@ -1,6 +1,5 @@
 # Part1
 ## Challenge 1
->>>>>>> 10d9855 (first-challenge)
 P@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
 $ git checkout -b ft/test.md
 Switched to a new branch 'ft/test.md'
