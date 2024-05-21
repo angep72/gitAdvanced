@@ -100,3 +100,16 @@ hint: Waiting for your editor to close the file...       0 [sig] bash 3870! sigp
  Date: Tue May 21 13:39:06 2024 +0200
  1 file changed, 74 insertions(+), 1 deletion(-)
 Successfully rebased and updated refs/heads/main..
+## Chalenge 6 
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+$ git rebase -i HEAD~2
+Successfully rebased and updated refs/heads/ft/test.md.
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+$ git status
+On branch ft/test.md
+Your branch is behind 'origin/ft/test.md' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working tree clean
