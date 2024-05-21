@@ -67,7 +67,6 @@ To https://github.com/angep72/gitAdvanced.git
  * [new branch]      ft/test.md -> ft/test.md
 branch 'ft/test.md' set up to track 'origin/ft/test.md'.
 
-<<<<<<< HEAD
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
 
 ## Challenge2
@@ -94,6 +93,4 @@ $ git rebase -i HEAD~3
  1 file changed, 70 insertions(+)
  create mode 100644 README.md
 Successfully rebased and updated refs/heads/ft/test.md.
-=======
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
->>>>>>> 10d9855 (first-challenge)
