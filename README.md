@@ -68,3 +68,18 @@ To https://github.com/angep72/gitAdvanced.git
 branch 'ft/test.md' set up to track 'origin/ft/test.md'.
 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+
+## Challenge2
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+$ git push
+Everything up-to-date
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+$ git rebase  HEAD~2
+Current branch ft/test.md is up to date.
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+$ git rebase  -i HEAD~2
+Successfully rebased and updated refs/heads/ft/test.md.
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
