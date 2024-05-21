@@ -99,4 +99,4 @@ hint: Waiting for your editor to close the file...       0 [sig] bash 3870! sigp
 [detached HEAD c61800e] Challege 3 and Challenge 4 squashe
  Date: Tue May 21 13:39:06 2024 +0200
  1 file changed, 74 insertions(+), 1 deletion(-)
-Successfully rebased and updated refs/heads/main.
+Successfully rebased and updated refs/heads/main..
