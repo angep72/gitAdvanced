@@ -349,3 +349,19 @@ Fast-forward
  create mode 100644 t.js
 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+ 
+ ##Challenge 8
+ HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit)
+$ git rebase -i HEAD~1
+Stopped at a7d4796...  helo
+You can amend the commit now, with
+
+  git commit --amend 
+
+Once you are satisfied with your changes, run
+
+  git rebase --continue
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit|REBASE 1/1)
+$ git rebase --continue 
+Successfully rebased and updated refs/heads/ft/new-branch-from-commit.
