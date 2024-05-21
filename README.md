@@ -269,10 +269,71 @@ To https://github.com/angep72/gitAdvanced.git
  * [new branch]      ft/new-feature -> ft/new-feature
 branch 'ft/new-feature' set up to track 'origin/ft/new-feature'.
 
-## Chalenge 5 
+## Challenge 5 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
 $ git branch -d ft/new-feature
 Deleted branch ft/new-feature (was e1c100b).
 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$
+## Chalenge 6
+
+commit ddcc06a54e1db11179e643b639b6b792b4ab7d78
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git checkout -b ft/new-branch-from-commit 18a37249823d15b09d61020d7e234f2c492eb073
+Switched to a new branch 'ft/new-branch-from-commit'
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit)
+$ git status 
+On branch ft/new-branch-from-commit
+nothing to commit, working tree clean
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit)
+$ git status
+On branch ft/new-branch-from-commit
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        t.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit)
+$ git add . 
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit)
+$ git commit -m "helo"
+[ft/new-branch-from-commit a7d4796] helo
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 t.js
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit)
+$ git push 
+fatal: The current branch ft/new-branch-from-commit has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin ft/new-branch-from-commit
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit)
+$ git push --set-upstream origin ft/new-branch-from-commit
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 228 bytes | 228.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'ft/new-branch-from-commit' on GitHub by visiting:
+remote:      https://github.com/angep72/gitAdvanced/pull/new/ft/new-branch-from-commit
+remote:
+To https://github.com/angep72/gitAdvanced.git
+ * [new branch]      ft/new-branch-from-commit -> ft/new-branch-from-commit
+branch 'ft/new-branch-from-commit' set up to track 'origin/ft/new-branch-from-commit'.
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit)
 $
