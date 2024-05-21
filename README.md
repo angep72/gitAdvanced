@@ -409,4 +409,17 @@ Saved working directory and index state WIP on main: e3f90df Challenge 10 part 2
 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
 $ 
+ ## Chalenge 2 
+ HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git stash pop
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped refs/stash@{0} (e0c943bf04050706aa5bd175f21d7e4a3ed3898d)
 
