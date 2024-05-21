@@ -92,3 +92,11 @@ HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md|REB
 $ git add test5.md
 
 ## challenge 5
+P@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git rebase -i HEAD~3
+hint: Waiting for your editor to close the file...       0 [sig] bash 3870! sigpacket::process: Suppressing signal 18 to win32 process (pid 18516)     
+                                                                                                                                                   226010 [sig] bash 3870! sigpacket::process: Suppressing signal 18 to win32 process (pid 18516)
+[detached HEAD c61800e] Challege 3 and Challenge 4 squashe
+ Date: Tue May 21 13:39:06 2024 +0200
+ 1 file changed, 74 insertions(+), 1 deletion(-)
+Successfully rebased and updated refs/heads/main.
