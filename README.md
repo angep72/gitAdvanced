@@ -153,3 +153,20 @@ commit c336f56a26c1ccb308275383b8a77fa8b56140d8 (HEAD -> main, origin/main)
 * commit 0330cacdeaab34a70a84e2de9393b37d42524114
 | Author: angep72 <p.umunyana@alustudent.com>
 :
+## Challenge 10 
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git reflog 
+54ac0df (HEAD -> main, origin/main) HEAD@{0}: commit: challenge 9 done
+c336f56 HEAD@{1}: commit: challenge 8
+5df3651 HEAD@{2}: cherry-pick: implemented test 5
+0330cac HEAD@{3}: checkout: moving from ft/branch to main
+d019c3c (ft/branch) HEAD@{4}: checkout: moving from main to ft/branch
+0330cac HEAD@{5}: checkout: moving from ft/branch to main
+d019c3c (ft/branch) HEAD@{6}: checkout: moving from main to ft/branch
+0330cac HEAD@{7}: checkout: moving from ft/branch to main
+d019c3c (ft/branch) HEAD@{8}: commit: implemented test 5
+0330cac HEAD@{9}: checkout: moving from main to ft/branch
+0330cac HEAD@{10}: commit: challenge 7
+7ca6559 HEAD@{11}: checkout: moving from ft/test.md to main
+ca6ecf1 (ft/test.md) HEAD@{12}: rebase (finish): returning to refs/heads/ft/test.md
+ca6ecf1 (ft/test.md) HEAD@{13}: rebase (start): checkout HEAD~4
