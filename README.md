@@ -113,3 +113,17 @@ Your branch is behind 'origin/ft/test.md' by 1 commit, and can be fast-forwarded
   (use "git pull" to update your local branch)
 
 nothing to commit, working tree clean
+
+
+## Challenge 7 
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+$ git rebase -i HEAD~4
+Successfully rebased and updated refs/heads/ft/test.md.
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+$ git checkout main 
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
