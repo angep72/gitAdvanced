@@ -337,3 +337,15 @@ branch 'ft/new-branch-from-commit' set up to track 'origin/ft/new-branch-from-co
 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit)
 $
+
+## Challenge 7 
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git pull 
+Updating 675744e..875afc1
+Fast-forward
+ t.js | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 t.js
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
