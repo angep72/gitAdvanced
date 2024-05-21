@@ -1,5 +1,6 @@
 # Part1
-## Challenge 1  
+## Challenge 1
+>>>>>>> 10d9855 (first-challenge)
 P@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
 $ git checkout -b ft/test.md
 Switched to a new branch 'ft/test.md'
@@ -67,6 +68,7 @@ To https://github.com/angep72/gitAdvanced.git
  * [new branch]      ft/test.md -> ft/test.md
 branch 'ft/test.md' set up to track 'origin/ft/test.md'.
 
+<<<<<<< HEAD
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
 
 ## Challenge2
@@ -83,3 +85,16 @@ $ git rebase  -i HEAD~2
 Successfully rebased and updated refs/heads/ft/test.md.
 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+
+
+## challenge 3
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+$ git rebase -i HEAD~3
+[detached HEAD 92b1c04] first-challenge
+ Date: Tue May 21 12:07:15 2024 +0200
+ 1 file changed, 70 insertions(+)
+ create mode 100644 README.md
+Successfully rebased and updated refs/heads/ft/test.md.
+=======
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+>>>>>>> 10d9855 (first-challenge)
