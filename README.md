@@ -176,3 +176,8 @@ ca6ecf1 (ft/test.md) HEAD@{13}: rebase (start): checkout HEAD~4
 
 ### Part2 
 ## challenge 1
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git checkout -b ft/new-feature
+Switched to a new branch 'ft/new-feature'
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-feature)
