@@ -445,3 +445,12 @@ See 'git mergetool --tool-help' or 'git help config' for more details.
 opendiff kdiff3 tkdiff xxdiff meld tortoisemerge gvimdiff diffuse diffmerge ecmerge p4merge araxis bc codecompare smerge emerge vimdiff nvimdiff       
 No files need merging
 
+## Challenge 5
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-feature)
+$ git checkout ft/test.md
+Switched to branch 'ft/test.md'
+Your branch and 'origin/ft/test.md' have diverged,
+and have 2 and 9 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+
