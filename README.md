@@ -127,3 +127,11 @@ Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+
+## Challenge 8
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git cherry-pick d019c3c35544d9b8b3d9d155eb07c01dd1b44a95
+[main 5df3651] implemented test 5
+ Date: Tue May 21 15:24:01 2024 +0200
+ 1 file changed, 1 insertion(+)
+ create mode 100644 test5.md
