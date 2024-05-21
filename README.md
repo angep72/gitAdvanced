@@ -135,3 +135,21 @@ $ git cherry-pick d019c3c35544d9b8b3d9d155eb07c01dd1b44a95
  Date: Tue May 21 15:24:01 2024 +0200
  1 file changed, 1 insertion(+)
  create mode 100644 test5.md
+ HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+
+## Challenge 9
+commit c336f56a26c1ccb308275383b8a77fa8b56140d8 (HEAD -> main, origin/main)
+| Author: angep72 <p.umunyana@alustudent.com>
+| Date:   Tue May 21 15:31:46 2024 +0200
+|
+|     challenge 8
+|
+* commit 5df36512329ef00e254e0cd1ac9aa43d2a05826b
+| Author: angep72 <p.umunyana@alustudent.com>
+| Date:   Tue May 21 15:24:01 2024 +0200
+|
+|     implemented test 5
+|
+* commit 0330cacdeaab34a70a84e2de9393b37d42524114
+| Author: angep72 <p.umunyana@alustudent.com>
+:
