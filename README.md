@@ -376,3 +376,26 @@ $ git branch
   ft/improved-branch-name
   ft/test.md
 * main
+## Challenge 10 
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git checkout 957125e052116f2f621809acd376f6296a19ee8b
+Note: switching to '957125e052116f2f621809acd376f6296a19ee8b'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 957125e Challenge8 part2 done
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced ((957125e...))
