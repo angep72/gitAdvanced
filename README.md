@@ -181,3 +181,13 @@ $ git checkout -b ft/new-feature
 Switched to a new branch 'ft/new-feature'
 
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-feature)
+
+## Challenge 2
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-feature)
+$ git commit -m "Implemented core functionality for new feature"
+[ft/new-feature 49a428c] Implemented core functionality for new feature
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 feature.txt
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-feature)
