@@ -17,3 +17,16 @@ $ git commit --amend
  create mode 100644 test2.md
  create mode 100644 test3.md
  create mode 100644 test4.md
+ ## Challenge 3
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/test.md)
+$ git push 
+pick 10d9855 first-challenge
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 310 bytes | 310.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/angep72/gitAdvanced.git
+   10d9855..5dae88d  ft/test.md -> ft/test.md
