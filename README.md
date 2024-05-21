@@ -422,4 +422,15 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 Dropped refs/stash@{0} (e0c943bf04050706aa5bd175f21d7e4a3ed3898d)
+ 
+
+ ## Challenge 3 
+ HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-feature)
+$ git merge
+Updating f128378..7d2da53
+Fast-forward
+ helloeee.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-feature)
 
