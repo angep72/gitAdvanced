@@ -365,3 +365,14 @@ Once you are satisfied with your changes, run
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (ft/new-branch-from-commit|REBASE 1/1)
 $ git rebase --continue 
 Successfully rebased and updated refs/heads/ft/new-branch-from-commit.
+
+## Challenge 9 
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git branch -m ft/new-branch-from-commit ft/improved-branch-name
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git branch 
+  ft/branch
+  ft/improved-branch-name
+  ft/test.md
+* main
