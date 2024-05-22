@@ -453,4 +453,29 @@ Your branch and 'origin/ft/test.md' have diverged,
 and have 2 and 9 different commits each, respectively.
   (use "git pull" to merge the remote branch into yours)
 
+  ## Challenge 6
+  itAdvanced (main)
+$ git add test.gitignore
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git commit -m "git ignore"
+[main c992cd8] git ignore
+ 1 file changed, 1 insertion(+)
+ create mode 100644 test.gitignore
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$ git push 
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 273 bytes | 91.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0  
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/angep72/gitAdvanced.git
+   1392bb4..c992cd8  main -> main
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+$
+
 
