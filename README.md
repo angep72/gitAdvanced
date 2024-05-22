@@ -478,4 +478,10 @@ To https://github.com/angep72/gitAdvanced.git
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
 $
 
+### Challenge 7
+itAdvanced (main)
+$ git tag v1.0
+
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
+
 
