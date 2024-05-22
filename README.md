@@ -495,4 +495,16 @@ Deleted tag 'v1.0' (was de06127)
 HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)
 $ 
 
+## Challenge 9 
+HP@DESKTOP-1CTEVNT MINGW64 ~/OneDrive/Desktop/TheGym/gitAdvanced (main)       
+$ git push 
+$ git push
+Writing objects: 100% (3/3), 386 bytes | 193.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/angep72/gitAdvanced.git
+   87d9d62..6d3fca8  main -> main
+   ## Challenge 10 
+   
+
 
